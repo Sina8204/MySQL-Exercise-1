@@ -7,8 +7,9 @@
 
 4) ذخیره دیتابیس در گیت هاب
    
-# MySQL-Exercise-1
 
+
+# MySQL-Exercise-2
 کوعری های زیر را انجام دهید :
 1) INSERT
 2) UPDATE
